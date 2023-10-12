@@ -14,7 +14,9 @@
              <li>базовые знания Node.js, Express.js, mongoDB</li>
               </ul>
   </div>
-  <div style="width=100%; height: 40px; background= #000"></div>
+<div style="background-color: #ffff00; border-width:1px; border-style: solid; border-color: #000000; height: 500px">
+<p>отступ</p>
+</div>
         <div style="background-color:#444774;">
            <img src="https://img.shields.io/badge/html5-%23396d8f.svg?style=for-the-badge&logo=html5&logoColor=white" style="width: 100px; height: 30px; border-top-left-radius: 20px"/>
             <img src="https://img.shields.io/badge/css3-%23ebb509.svg?style=for-the-badge&logo=css3&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
