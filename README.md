@@ -20,7 +20,7 @@
      <tr>
       <td>
         <h3  style="font-size:24px; color:#000;">ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</h3>
-        <div align="center" style="background-color: #444774;">
+        <div align="center" style="background-color:#444774;">
            <img src="https://img.shields.io/badge/html5-%2388a921.svg?style=for-the-badge&logo=html5&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
             <img src="https://img.shields.io/badge/css3-%23ebb509.svg?style=for-the-badge&logo=css3&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
             <img src="https://img.shields.io/badge/javascript-%23464a9b.svg?style=for-the-badge&logo=javascript&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/><br>
