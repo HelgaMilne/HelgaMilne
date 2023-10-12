@@ -22,7 +22,7 @@
       <td>
         <h3>Key skills:</h3>
         <div align="center">
-            <img src="https://img.shields.io/badge/html5-%2388a921.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/HTML5-88a921"/>
             <img src="https://img.shields.io/badge/css3-%23444599.svg?style=for-the-badge&logo=css3&logoColor=white"/>
             <img src="https://img.shields.io/badge/javascript-%23ebb509.svg?style=for-the-badge&logo=javascript&logoColor=white"/><br>
              <img src="https://img.shields.io/badge/react-%239d1066.svg?style=for-the-badge&logo=react&logoColor=white"/>
