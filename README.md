@@ -11,9 +11,15 @@
       <td >
         <h3  style="font-size:24px; color:#000;">ᴀʙᴏᴜᴛ ᴍᴇ</h3>
           <ul > 
-            <li>:rocket: начинающий веб-разработчик</li>
-            <li>:man_student: изучаю JavaScript в Яндекс.Практикуме</li>
-            <li>:briefcase: имею опыт в b2b продажах более 10 лет</li>
+            <li>отличные знания HTML5, CSS3</li>
+            <li>отличные знания верстки (flex, grid)</li>
+            <li>опыт работы с Pug, SCSS и Gulp</li>
+            <li>понимание методологии BEM</li>
+            <li>знания JavaScript и DOM</li>
+            <li>опыт работы с макетами Figma</li>
+            <li>кроссбраузерная, адаптивная, семантическая верстка</li>
+            <li>базовые знания React (JSX, функциональные компоненты и хуки)</li>
+             <li>базовые знания Node.js, Express.js, mongoDB</li>
                 </ul>
              </td>
     </tr>
@@ -21,7 +27,7 @@
       <td>
         <h3  style="font-size:24px; color:#000; background-color: #FF8630;">ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</h3>
         <div align="center" style="background-color:#444774;">
-           <img src="https://img.shields.io/badge/html5-%23396d8f.svg?style=for-the-badge&logo=html5&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
+           <img src="https://img.shields.io/badge/html5-%23396d8f.svg?style=for-the-badge&logo=html5&logoColor=white" style="width: 100px; height: 30px; border-top-left-radius: 20px"/>
             <img src="https://img.shields.io/badge/css3-%23ebb509.svg?style=for-the-badge&logo=css3&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
             <img src="https://img.shields.io/badge/javascript-%239d1066.svg?style=for-the-badge&logo=javascript&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/><br>
              <img src="https://img.shields.io/badge/react-%23c14da4.svg?style=for-the-badge&logo=react&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
@@ -30,7 +36,7 @@
            <img src="https://img.shields.io/badge/node.js-a79257?style=for-the-badge&logo=node.js&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/><br>
           <img src="https://img.shields.io/badge/figma-%23171b65.svg?style=for-the-badge&logo=figma&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
                 <img src="https://img.shields.io/badge/Postman-464a9b?style=for-the-badge&logo=postman&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>      
-          <img src="https://img.shields.io/badge/git-%23550842.svg?style=for-the-badge&logo=git&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
+          <img src="https://img.shields.io/badge/git-%18550842.svg?style=for-the-badge&logo=git&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
         </div>
                      </td>
     </tr>
