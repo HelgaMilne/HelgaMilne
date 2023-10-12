@@ -1,5 +1,5 @@
  <div>
-  <img  width="200px" src="./src/images/cover_02.svg" alt="cover" />
+  <img  width="200px" src="./src/images/cover_01.svg" alt="cover" />
  </div>
  
 <hr>
