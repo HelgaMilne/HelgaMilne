@@ -1,5 +1,5 @@
  <div align="center" style="width=100%;">
-  <img src="./src/images/cover_01.svg"  style="width=400px;">
+  <img src="./src/images/cover_02.svg">
  </div>
  
 <hr>
@@ -31,7 +31,7 @@
         </div>
   <hr>
 
-## Что сейчас изучаю 📚
+##Что сейчас изучаю 📚
 
 - Эффективный TypeScript
 - Алгоритмы и структуры данных
