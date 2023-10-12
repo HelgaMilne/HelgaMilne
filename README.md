@@ -1,7 +1,7 @@
  <div align="center">
   <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
  </div>
-<div align="center" style="margin-bottom: 40px">
+<div style="margin-bottom: 40px">
       <h3  style="font-size:24px; color:#000;">ОБО МНЕ</h3>
           <ul > 
             <li>отличные знания HTML5, CSS3</li>
