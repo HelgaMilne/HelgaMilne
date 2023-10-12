@@ -1,6 +1,9 @@
  <div align="center">
   <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
  </div>
+ 
+<hr>
+
 <div style="margin-bottom: 40px;">
       <h3  style="font-size:24px; color:#000;">ОБО МНЕ</h3>
           <ul > 
@@ -14,7 +17,7 @@
              <li>базовые знания Node.js, Express.js, mongoDB</li>
               </ul>
   </div>
-<p style="color:#fff;">skills</p>
+<p style="color: #ffffff;">skills:</p>
         <div style="background-color:#444774;">
            <img src="https://img.shields.io/badge/html5-%23396d8f.svg?style=for-the-badge&logo=html5&logoColor=white" style="width: 100px; height: 30px; border-top-left-radius: 20px"/>
             <img src="https://img.shields.io/badge/css3-%23ebb509.svg?style=for-the-badge&logo=css3&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
@@ -28,6 +31,9 @@
           <img src="https://img.shields.io/badge/git-550842.svg?style=for-the-badge&logo=git&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
              <img src="https://img.shields.io/badge/bem-6da3c7.svg?style=for-the-badge&logo=bem&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
         </div>
+         
+<hr>
+
         <h3  style="font-size:24px; color:#000;">СТАТИСТИКА</h3>
         <div align="center">
           <img src="https://streak-stats.demolab.com/?user=HelgaMilne&theme=default)](https://git.io/streak-stats" height="150px"/>
@@ -35,6 +41,9 @@
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HelgaMilne&theme=default"/>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HelgaMilne&theme=default"/>
         </div>
+         
+<hr>
+
 
   
   
