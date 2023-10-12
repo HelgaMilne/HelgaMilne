@@ -1,4 +1,4 @@
- <div align="center" style="width=100%;">
+ <div>
   <img src="./src/images/cover_02.svg">
  </div>
  
