@@ -1,7 +1,7 @@
  <div align="center">
   <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
  </div>
-<div style="margin-bottom: 40px">
+<div style="margin-bottom: 40px;">
       <h3  style="font-size:24px; color:#000;">ОБО МНЕ</h3>
           <ul > 
             <li>отличные знания HTML5, CSS3</li>
@@ -13,8 +13,9 @@
             <li>кроссбраузерная, адаптивная, семантическая верстка</li>
             <li>базовые знания React (JSX, функциональные компоненты и хуки)</li>
              <li>базовые знания Node.js, Express.js, mongoDB</li>
-                </ul>
+              </ul>
   </div>
+  <div style="width=100%; heght: 40px;"></div>
         <div style="background-color:#444774;">
            <img src="https://img.shields.io/badge/html5-%23396d8f.svg?style=for-the-badge&logo=html5&logoColor=white" style="width: 100px; height: 30px; border-top-left-radius: 20px"/>
             <img src="https://img.shields.io/badge/css3-%23ebb509.svg?style=for-the-badge&logo=css3&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
@@ -26,6 +27,7 @@
           <img src="https://img.shields.io/badge/figma-%23171b65.svg?style=for-the-badge&logo=figma&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
                 <img src="https://img.shields.io/badge/Postman-464a9b?style=for-the-badge&logo=postman&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>      
           <img src="https://img.shields.io/badge/git-550842.svg?style=for-the-badge&logo=git&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
+             <img src="https://img.shields.io/badge/bem-6da3c7.svg?style=for-the-badge&logo=git&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
         </div>
         <h3  style="font-size:24px; color:#000;">СТАТИСТИКА</h3>
         <div align="center">
