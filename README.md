@@ -9,7 +9,7 @@
   <tbody>
     <tr>
       <td >
-        <h3 >ᴀʙᴏᴜᴛ ᴍᴇ</h3>
+        <h3  style="font-size:20px; color:#000;">ᴀʙᴏᴜᴛ ᴍᴇ</h3>
           <ul > 
             <li>:rocket: начинающий веб-разработчик</li>
             <li>:man_student: изучаю JavaScript в Яндекс.Практикуме</li>
@@ -19,7 +19,7 @@
     </tr>
      <tr>
       <td>
-        <h3>ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</h3>
+        <h3  style="font-size:20px; color:#000;">ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</h3>
         <div align="center">
             <img src="https://img.shields.io/badge/HTML5-88a921?style=flat-square"/>
             <img src="https://img.shields.io/badge/css3-%23444599.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td >
-        <h3>ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ</h3>
+        <h3  style="font-size:20px; color:#000;">ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ</h3>
         <div align="center">
           <img src="https://streak-stats.demolab.com/?user=HelgaMilne&theme=default)](https://git.io/streak-stats" height="150px"/>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HelgaMilne&theme=default" width="685px"/>
