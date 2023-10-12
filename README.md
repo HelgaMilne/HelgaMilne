@@ -3,10 +3,8 @@
  </div>
  
 <hr>
-
-<div style="margin-bottom: 40px;">
-      <h3  style="font-size:24px; color:#000;">ОБО МНЕ</h3>
-            <h4 >Я увлечена веб-разработкой, ценю элегантный дизайн и хорошо структурированный код.</h4>
+     <h3  style="font-size:24px; color:#000;">ОБО МНЕ</h3>
+        ###### *Я увлечена веб-разработкой, ценю элегантный дизайн и хорошо структурированный код.*
           <ul > 
             <li>хорошие знания HTML5, CSS3</li>
             <li>хорошие знания Grid и Flexbox верстки</li>
@@ -17,8 +15,7 @@
             <li>базовые знания React (JSX, функциональные компоненты и хуки)</li>
              <li>базовые знания Node.js, Express.js, mongoDB</li>
               </ul>
-  </div>
-<p style="color: #ffffff;">skills:</p>
+<p style="color: #ffffff;">-------------------------------------</p>
         <div style="background-color:#444774;">
            <img src="https://img.shields.io/badge/html5-%23396d8f.svg?style=for-the-badge&logo=html5&logoColor=white" style="width: 100px; height: 30px; border-top-left-radius: 20px"/>
             <img src="https://img.shields.io/badge/css3-%23ebb509.svg?style=for-the-badge&logo=css3&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
