@@ -22,10 +22,10 @@
       <td>
         <h3>Key skills:</h3>
         <div align="center">
-            <img src="https://img.shields.io/badge/html5-%288a921.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/html5-%2388a921.svg?style=for-the-badge&logo=html5&logoColor=white"/>
             <img src="https://img.shields.io/badge/css3-%23444599.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-            <img src="https://img.shields.io/badge/javascript-%23ebb509.svg?style=for-the-badge&logo=javascript&logoColor=%23black"/><br>
-             <img src="https://img.shields.io/badge/react-%239d1066.svg?style=for-the-badge&logo=react&logoColor=%23white"/>
+            <img src="https://img.shields.io/badge/javascript-%23ebb509.svg?style=for-the-badge&logo=javascript&logoColor=black"/><br>
+             <img src="https://img.shields.io/badge/react-%239d1066.svg?style=for-the-badge&logo=react&logoColor=white"/>
           <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
           <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
            <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/><br>
