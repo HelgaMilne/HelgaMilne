@@ -1,15 +1,16 @@
- <div align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
+ <div align="center" style="width=100%;">
+  <img src="./src/images/cover_01.svg"  style="width=100%;">
  </div>
  
 <hr>
 
 <div style="margin-bottom: 40px;">
       <h3  style="font-size:24px; color:#000;">ОБО МНЕ</h3>
+            <h4 >Я увлечена веб-разработкой, ценю элегантный дизайн и хорошо структурированный код.</h4>
           <ul > 
-            <li>отличные знания HTML5, CSS3</li>
-            <li>отличные знания Grid и Flexbox верстки</li>
-            <li>знания JavaScript и DOM</li>
+            <li>хорошие знания HTML5, CSS3</li>
+            <li>хорошие знания Grid и Flexbox верстки</li>
+            <li>хорошие знания JavaScript и DOM</li>
             <li>понимание методологии BEM</li>
             <li>опыт работы с макетами Figma</li>
             <li>кроссбраузерная, адаптивная, семантическая верстка</li>
@@ -33,7 +34,11 @@
         </div>
          
 <hr>
+## Что сейчас изучаю 📚
 
+- Эффективный TypeScript
+- Алгоритмы и структуры данных
+<hr>
         <h3  style="font-size:24px; color:#000;">СТАТИСТИКА</h3>
         <div align="center">
           <img src="https://streak-stats.demolab.com/?user=HelgaMilne&theme=default)](https://git.io/streak-stats" height="150px"/>
@@ -41,8 +46,7 @@
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HelgaMilne&theme=default"/>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HelgaMilne&theme=default"/>
         </div>
-         
-<hr>
+ <hr>
 
 
   
