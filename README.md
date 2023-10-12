@@ -1,5 +1,5 @@
- <div style="width: 338px">
-  <img src="./src/images/cover_02.svg">
+ <div>
+  <img  width="338px" src="./src/images/cover_02.svg" alt="cover" />
  </div>
  
 <hr>
@@ -30,7 +30,7 @@
              <img src="https://img.shields.io/badge/bem-6da3c7.svg?style=for-the-badge&logo=bem&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
         </div>
   <hr>
-   <h4  style="font-size:24px; color:#000;">СЕЙЧАС ИЗУЧАЮ<h1> 📚</h1></h4>
+   <h4  style="font-size:24px; color:#000;">СЕЙЧАС ИЗУЧАЮ<span> 📚</span></h4>
          <ul > 
             <li>Эффективный TypeScript</li>
             <li>Алгоритмы и структуры данных</li>
