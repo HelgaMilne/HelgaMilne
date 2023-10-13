@@ -1,5 +1,5 @@
  <div>
-  <img  width="100%" src="./src/images/cover_short_03.jpg" alt="cover" />
+  <img  width="100%" src="./src/images/cover_short_04.jpg" alt="cover" />
  </div>
       <h3  font-size="24px" color="black">ABOUT ME</h3>
        <p style="font-size:24px; color:#000;">Я увлечена веб-разработкой, ценю элегантный дизайн и хорошо структурированный код.</p>
