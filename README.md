@@ -1,9 +1,9 @@
  <div>
-  <img  width="200px" src="./src/images/cover_script.jpg" alt="cover" />
+  <img  width="100%" src="./src/images/cover_script.jpg" alt="cover" />
  </div>
  
 <hr>
-     <h3  style="font-size:24px; color:#000000;">ABOUT ME 💬</h3>
+     <h3  style="font-size:24px; color:#000000;">ABOUT ME</h3>
        <p style="font-size:24px; color:#000;">Я увлечена веб-разработкой, ценю элегантный дизайн и хорошо структурированный код.</p>
           <ul > 
             <li>хорошие знания HTML5, CSS3</li>
@@ -30,14 +30,14 @@
              <img src="https://img.shields.io/badge/bem-6da3c7.svg?style=for-the-badge&logo=bem&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
         </div>
   <hr>
-   <h3  style="font-size:24px; color:#000;">LEARNING 📚</h3>
+   <h3  style="font-size:24px; color:#000;">LEARNING</h3>
          <ul > 
-            <li>Эффективный TypeScript</li>
-            <li>Алгоритмы и структуры данных</li>
+            <li>Effective TypeScript </li>
+            <li>Algorithms and data structures<li>
     </ul>
 
 <hr>
-        <h3  style="font-size:24px; color:#000;">STATISTICS 📈</h3>
+        <h3  style="font-size:24px; color:#000;">STATISTICS</h3>
         <div align="center">
           <img src="https://streak-stats.demolab.com/?user=HelgaMilne&theme=default)](https://git.io/streak-stats" height="150px"/>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HelgaMilne&theme=default" width="685px"/>
