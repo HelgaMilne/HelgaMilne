@@ -3,7 +3,7 @@
  </div>
  
 <hr>
-     <h3  style="font-size:24px; color:#000;">ОБО МНЕ</h3>
+     <h3  style="font-size:24px; color:#000;">💬  ABOUT ME</h3>
        <p style="font-size:24px; color:#000;">Я увлечена веб-разработкой, ценю элегантный дизайн и хорошо структурированный код.</p>
           <ul > 
             <li>хорошие знания HTML5, CSS3</li>
@@ -22,7 +22,7 @@
             <img src="https://img.shields.io/badge/javascript-%239d1066.svg?style=for-the-badge&logo=javascript&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/><br>
              <img src="https://img.shields.io/badge/react-%23c14da4.svg?style=for-the-badge&logo=react&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
           <img src="https://img.shields.io/badge/express.js-%2391851a.svg?style=for-the-badge&logo=express&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
-          <img src="https://img.shields.io/badge/MongoDB-%23123f5d.svg?style=for-the-badge&logo=mongodb&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
+          <img src="https://img.shields.io/badge/MongoDB-%23396d8f.svg?style=for-the-badge&logo=mongodb&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
            <img src="https://img.shields.io/badge/node.js-a79257?style=for-the-badge&logo=node.js&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/><br>
           <img src="https://img.shields.io/badge/figma-%23171b65.svg?style=for-the-badge&logo=figma&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
                 <img src="https://img.shields.io/badge/Postman-464a9b?style=for-the-badge&logo=postman&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>      
@@ -30,14 +30,14 @@
              <img src="https://img.shields.io/badge/bem-6da3c7.svg?style=for-the-badge&logo=bem&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
         </div>
   <hr>
-   <h4  style="font-size:24px; color:#000;">СЕЙЧАС ИЗУЧАЮ<span> 📚</span></h4>
+   <h4  style="font-size:24px; color:#000;">📚 LEARNING</h4>
          <ul > 
             <li>Эффективный TypeScript</li>
             <li>Алгоритмы и структуры данных</li>
     </ul>
 
 <hr>
-        <h3  style="font-size:24px; color:#000;">СТАТИСТИКА</h3>
+        <h3  style="font-size:24px; color:#000;">📈 STATISTICS</h3>
         <div align="center">
           <img src="https://streak-stats.demolab.com/?user=HelgaMilne&theme=default)](https://git.io/streak-stats" height="150px"/>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HelgaMilne&theme=default" width="685px"/>
