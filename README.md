@@ -1,7 +1,7 @@
  <div>
   <img  width="100%" src="./src/images/cover_script.jpg" alt="cover" />
  </div>
-      <h3  font-size="24px" color="#000000">ABOUT ME</h3>
+      <h3  font-size="24px" color="black">ABOUT ME</h3>
        <p style="font-size:24px; color:#000;">Я увлечена веб-разработкой, ценю элегантный дизайн и хорошо структурированный код.</p>
           <ul > 
             <li>хорошие знания HTML5, CSS3</li>
