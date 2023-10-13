@@ -31,8 +31,8 @@
    <h3  style="font-size:24px; color:#000;">LEARNING</h3>
          <ul > 
             <li>Effective TypeScript </li>
-            <li>Algorithms and data structures<li>
-    </ul>
+            <li>Algorithms and data structures</li>
+        </ul>
 
 <hr>
         <h3  style="font-size:24px; color:#000;">STATISTICS</h3>
