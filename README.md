@@ -1,5 +1,5 @@
  <div>
-  <img  width="100%" src="./src/images/cover_script.jpg" alt="cover" />
+  <img  width="100%" src="./src/images/cover_script_02.jpg" alt="cover" />
  </div>
       <h3  font-size="24px" color="black">ABOUT ME</h3>
        <p style="font-size:24px; color:#000;">Я увлечена веб-разработкой, ценю элегантный дизайн и хорошо структурированный код.</p>
@@ -13,7 +13,7 @@
             <li>базовые знания React (JSX, функциональные компоненты и хуки)</li>
              <li>базовые знания Node.js, Express.js, mongoDB</li>
               </ul>
-              <p>---------------------------------------------------------------------</p>
+              <p>-------------------------------------------------------------------------</p>
         <div>
            <img src="https://img.shields.io/badge/html5-%23396d8f.svg?style=for-the-badge&logo=html5&logoColor=white" style="width: 100px; height: 30px; border-top-left-radius: 20px"/>
             <img src="https://img.shields.io/badge/css3-%23ebb509.svg?style=for-the-badge&logo=css3&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
