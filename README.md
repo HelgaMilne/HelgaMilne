@@ -25,7 +25,7 @@
           <img src="https://img.shields.io/badge/figma-%23FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=171b65" style="width: 100px; height: 30px; border-radius: 20px"/>
                 <img src="https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=464a9b" style="width: 100px; height: 30px; border-radius: 20px"/>      
           <img src="https://img.shields.io/badge/git-FFFFFF.svg?style=for-the-badge&logo=git&logoColor=550842" style="width: 100px; height: 30px; border-radius: 20px"/>
-             <img src="https://img.shields.io/badge/bem-FFFFFF.svg?style=for-the-badge&logo=bem&logoColor=6da3c7" style="width: 100px; height: 30px; border-radius: 20px"/>
+             <img src="https://img.shields.io/badge/bem-FFFFFF.svg?style=for-the-badge&logo=bem&logoColor=171b65" style="width: 100px; height: 30px; border-radius: 20px"/>
         </div>
   <hr>
    <h3  style="font-size:24px; color:#000;">LEARNING</h3>
