@@ -15,7 +15,7 @@
               </ul>
               <p>-------------------------------------------------------------------------</p>
         <div>
-           <img src="https://img.shields.io/badge/html5-%23396d8f.svg?style=for-the-badge&logo=html5&logoColor=white" style="width: 100px; height: 30px; border-top-left-radius: 20px"/>
+           <img src="https://img.shields.io/badge/html5-%23FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=black" style="width: 100px; height: 30px;"/>
             <img src="https://img.shields.io/badge/css3-%23ebb509.svg?style=for-the-badge&logo=css3&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
             <img src="https://img.shields.io/badge/javascript-%239d1066.svg?style=for-the-badge&logo=javascript&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/><br>
              <img src="https://img.shields.io/badge/react-%23c14da4.svg?style=for-the-badge&logo=react&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
