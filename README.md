@@ -15,7 +15,7 @@
               </ul>
               <p>-------------------------------------------------------------------------</p>
         <div>
-            <img   src="./src/images/icons_set_02.svg" alt="skills icons" />
+            <img   width="400px" src="./src/images/icons_set_02.svg" alt="skills icons" />
         </div>
   <hr>
    <h3  style="font-size:24px; color:#000;">LEARNING</h3>
