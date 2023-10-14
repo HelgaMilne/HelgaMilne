@@ -15,15 +15,15 @@
               </ul>
               <p>-------------------------------------------------------------------------</p>
         <div>
-           <img src="https://img.shields.io/badge/html5-%23FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=black" style="width: 100px; height: 30px;"/>
-                   <img src="https://img.shields.io/badge/css3-%23FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=black" style="width: 100px; height: 30px;"/>
-            <img src="https://img.shields.io/badge/javascript-%239d1066.svg?style=for-the-badge&logo=javascript&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/><br>
-             <img src="https://img.shields.io/badge/react-%23c14da4.svg?style=for-the-badge&logo=react&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
-          <img src="https://img.shields.io/badge/express.js-%2391851a.svg?style=for-the-badge&logo=express&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
-          <img src="https://img.shields.io/badge/MongoDB-%23396d8f.svg?style=for-the-badge&logo=mongodb&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
-           <img src="https://img.shields.io/badge/node.js-a79257?style=for-the-badge&logo=node.js&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/><br>
-          <img src="https://img.shields.io/badge/figma-%23171b65.svg?style=for-the-badge&logo=figma&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
-                <img src="https://img.shields.io/badge/Postman-464a9b?style=for-the-badge&logo=postman&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>      
+           <img src="https://img.shields.io/badge/html5-%23FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=396d8f" style="width: 100px; height: 30px;"/>
+                   <img src="https://img.shields.io/badge/css3-%23FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=ebb509" style="width: 100px; height: 30px;"/>
+            <img src="https://img.shields.io/badge/javascript-%23FFFFFF.svg?style=for-the-badge&logo=javascript&logoColor=9d1066" style="width: 100px; height: 30px; border-radius: 20px"/><br>
+             <img src="https://img.shields.io/badge/react-%23FFFFFF.svg?style=for-the-badge&logo=react&logoColor=c14da4" style="width: 100px; height: 30px; border-radius: 20px"/>
+          <img src="https://img.shields.io/badge/express.js-%23FFFFFF.svg?style=for-the-badge&logo=express&logoColor=91851a" style="width: 100px; height: 30px; border-radius: 20px"/>
+          <img src="https://img.shields.io/badge/MongoDB-%23FFFFFF.svg?style=for-the-badge&logo=mongodb&logoColor=396d8f" style="width: 100px; height: 30px; border-radius: 20px"/>
+           <img src="https://img.shields.io/badge/node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=a79257" style="width: 100px; height: 30px; border-radius: 20px"/><br>
+          <img src="https://img.shields.io/badge/figma-%23FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=171b65" style="width: 100px; height: 30px; border-radius: 20px"/>
+                <img src="https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=464a9b" style="width: 100px; height: 30px; border-radius: 20px"/>      
           <img src="https://img.shields.io/badge/git-550842.svg?style=for-the-badge&logo=git&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
              <img src="https://img.shields.io/badge/bem-6da3c7.svg?style=for-the-badge&logo=bem&logoColor=white" style="width: 100px; height: 30px; border-radius: 20px"/>
         </div>
