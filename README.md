@@ -8,7 +8,7 @@
 
 В свободное время я стараюсь детально изучить алгоритмы и структуры данных. Поддерживаю уровень своего  английского  чтением технических статей и IT-форумов.
 
-Люблю гулять по белому мху в сосновом бору<span> <img  width="30px" src="./src/images/forest_01.svg" alt="forest icon" /></span>  и кататься на лыжах по зимней равнине.<span> <img  width="30px" src="./src/images/skiing.svg" alt="skier icon" /></span></p>
+Люблю гулять по белому мху в сосновом бору<span> <img  width="30px" src="./src/images/forest_02.svg" alt="forest icon" /></span>  и кататься на лыжах по зимней равнине<span> <img  width="30px" src="./src/images/skiing.svg" alt="skier icon" /></span></p>
   <p>----------------------------------------------------------------------------</p>
           <ul > 
             <li>хорошие знания HTML5, CSS3</li>
