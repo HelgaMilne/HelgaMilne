@@ -22,7 +22,7 @@
               </ul>
               <p>----------------------------------------------------------------------------</p>
         <div>
-            <img   width="400px" src="./src/images/icons_set_01.svg" alt="skills icons" />
+            <img   width="400px" src="./src/images/skills_set_01.svg" alt="skills icons" />
         </div>
   <hr>
    <h3  style="font-size:24px; color:#000;">LEARNING</h3>
