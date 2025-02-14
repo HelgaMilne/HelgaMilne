@@ -10,7 +10,7 @@
 
   <p>----------------------------------------------------------------------------</p>
 
-![Static Badge](https://img.shields.io/badge/Next.js-gray) ![Static Badge](https://img.shields.io/badge/React-gray) ![Static Badge](https://img.shields.io/badge/TS-gray) ![Static Badge](https://img.shields.io/badge/JS-gray) ![Static Badge](https://img.shields.io/badge/HTML5-gray) ![Static Badge](https://img.shields.io/badge/CSS3-gray) ![Static Badge](https://img.shields.io/badge/MUI-gray) ![Static Badge](https://img.shields.io/badge/Mantine-gray) ![Static Badge](https://img.shields.io/badge/Shadcn-gray) ![Static Badge](https://img.shields.io/badge/Tailwind-gray) ![Static Badge](https://img.shields.io/badge/BEM-gray) ![Static Badge](https://img.shields.io/badge/Git-gray) ![Static Badge](https://img.shields.io/badge/Redux-studying-lightgray)]
+![Static Badge](https://img.shields.io/badge/Next.js-gray) ![Static Badge](https://img.shields.io/badge/React-gray) ![Static Badge](https://img.shields.io/badge/TS-gray) ![Static Badge](https://img.shields.io/badge/JS-gray) ![Static Badge](https://img.shields.io/badge/HTML5-gray) ![Static Badge](https://img.shields.io/badge/CSS3-gray) ![Static Badge](https://img.shields.io/badge/MUI-gray) ![Static Badge](https://img.shields.io/badge/Mantine-gray) ![Static Badge](https://img.shields.io/badge/Shadcn-gray) ![Static Badge](https://img.shields.io/badge/Tailwind-gray) ![Static Badge](https://img.shields.io/badge/BEM-gray) ![Static Badge](https://img.shields.io/badge/Git-gray) ![Static Badge](https://img.shields.io/badge/Redux-studying-lightgray)
 
   <hr>
    <h3  style="font-size:24px; color:#000;">LEARNING</h3>
