@@ -2,28 +2,16 @@
   <img  width="100%" src="./src/images/cover_helgamilne_01.jpg" alt="cover" />
  </div>
       <h3  font-size="24px" color="black">ABOUT ME</h3>
-       <p style="font-size:24px; color:#000;">IT-сфера привлекает меня разнообразием задач и разнообразием путей их решения, возможностью постоянно развиваться. 
+       <p style="font-size:24px; color:#000;">IT-сфера привлекает меня разнообразием задач и разнообразием путей их решения.
 
-Мне нравится работать над frontend-частью проектов, отвечать за разработку логики и верстки интерфейсов, создавать элегантные и удобные веб-приложения.
+Мне нравится работать над frontend-частью проектов, отвечать за разработку логики и интерфейсов.
 
-В свободное время я стараюсь детально изучить алгоритмы и структуры данных. Поддерживаю уровень своего  английского  чтением технических статей и IT-форумов.
+В свободное время я стараюсь детально изучить алгоритмы и структуры данных. Поддерживаю уровень своего английского чтением технических статей и IT-форумов.
 
-Люблю гулять по белому мху в сосновом бору<span> <img  width="30px" src="./src/images/forest_01.svg" alt="forest icon" /></span>  и кататься на лыжах по зимней равнине<span> <img  width="30px" src="./src/images/skiing.svg" alt="skier icon" /></span></p>
   <p>----------------------------------------------------------------------------</p>
-          <ul > 
-            <li>хорошие знания HTML5, CSS3</li>
-            <li>хорошие знания Grid и Flexbox верстки</li>
-            <li>хорошие знания JavaScript и DOM</li>
-            <li>понимание методологии BEM</li>
-            <li>опыт работы с макетами Figma</li>
-            <li>кроссбраузерная, адаптивная, семантическая верстка</li>
-            <li>базовые знания React (JSX, функциональные компоненты и хуки)</li>
-             <li>базовые знания Node.js, Express.js, mongoDB</li>
-              </ul>
-              <p>----------------------------------------------------------------------------</p>
-        <div>
-            <img   width="400px" src="./src/images/skills_set_01.svg" alt="skills icons" />
-        </div>
+
+![Static Badge](https://img.shields.io/badge/Next.js-gray) ![Static Badge](https://img.shields.io/badge/React-gray) ![Static Badge](https://img.shields.io/badge/TS-gray) ![Static Badge](https://img.shields.io/badge/JS-gray) ![Static Badge](https://img.shields.io/badge/HTML5-gray) ![Static Badge](https://img.shields.io/badge/CSS3-gray) ![Static Badge](https://img.shields.io/badge/MUI-gray) ![Static Badge](https://img.shields.io/badge/Mantine-gray) ![Static Badge](https://img.shields.io/badge/Shadcn-gray) ![Static Badge](https://img.shields.io/badge/Tailwind-gray) ![Static Badge](https://img.shields.io/badge/BEM-gray) ![Static Badge](https://img.shields.io/badge/Git-gray) ![Static Badge](https://img.shields.io/badge/Redux-studying-lightgray)]
+
   <hr>
    <h3  style="font-size:24px; color:#000;">LEARNING</h3>
          <ul > 
@@ -40,7 +28,3 @@
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HelgaMilne&theme=default"/>
         </div>
  <hr>
-
-
-  
-  
