@@ -8,9 +8,11 @@
 
 В свободное время я стараюсь детально изучить алгоритмы и структуры данных. Поддерживаю уровень своего английского чтением технических статей и IT-форумов.
 
-  <p>----------------------------------------------------------------------------</p>
+  <hr>
 
-![Static Badge](https://img.shields.io/badge/Next.js-gray) ![Static Badge](https://img.shields.io/badge/React-gray) ![Static Badge](https://img.shields.io/badge/TS-gray) ![Static Badge](https://img.shields.io/badge/JS-gray) ![Static Badge](https://img.shields.io/badge/HTML5-gray) ![Static Badge](https://img.shields.io/badge/CSS3-gray) ![Static Badge](https://img.shields.io/badge/MUI-gray) ![Static Badge](https://img.shields.io/badge/Mantine-gray) ![Static Badge](https://img.shields.io/badge/Shadcn-gray) ![Static Badge](https://img.shields.io/badge/Tailwind-gray) ![Static Badge](https://img.shields.io/badge/BEM-gray) ![Static Badge](https://img.shields.io/badge/Git-gray) ![Static Badge](https://img.shields.io/badge/Redux-studying-lightgray)
+![Static Badge](https://img.shields.io/badge/Next.js-gray) ![Static Badge](https://img.shields.io/badge/React-gray) ![Static Badge](https://img.shields.io/badge/TS-gray) ![Static Badge](https://img.shields.io/badge/JS-gray) ![Static Badge](https://img.shields.io/badge/HTML5-gray) ![Static Badge](https://img.shields.io/badge/CSS3-gray) ![Static Badge](https://img.shields.io/badge/MUI-gray) ![Static Badge](https://img.shields.io/badge/Mantine-gray) ![Static Badge](https://img.shields.io/badge/Shadcn-gray) ![Static Badge](https://img.shields.io/badge/Tailwind-gray)
+![Static Badge](https://img.shields.io/badge/Figma-gray) ![Static Badge](https://img.shields.io/badge/BEM-gray) ![Static Badge](https://img.shields.io/badge/Git-gray) ![Static Badge](https://img.shields.io/badge/Redux-studying-lightgray)
+<img src="https://img.shields.io/badge/Git-gray" alt="Git" style="border-radius: 0px; height: 30px;">
 
   <hr>
    <h3  style="font-size:24px; color:#000;">LEARNING</h3>
@@ -22,7 +24,6 @@
 <hr>
         <h3  style="font-size:24px; color:#000;">STATISTICS</h3>
         <div align="center">
-          <img src="https://streak-stats.demolab.com/?user=HelgaMilne&theme=default)](https://git.io/streak-stats" height="150px"/>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HelgaMilne&theme=default" width="685px"/>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HelgaMilne&theme=default"/>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HelgaMilne&theme=default"/>
