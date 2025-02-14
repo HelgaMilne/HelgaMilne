@@ -10,19 +10,7 @@
 
   <hr>
 
-  <img src="https://img.shields.io/badge/Next-gray?style=for-the-badge" style="display:inline-block; height: 24px;" />
-  <img src="https://img.shields.io/badge/React-gray?style=for-the-badge" style="display:inline-block; height: 24px;" />
-  <img src="https://img.shields.io/badge/TS-gray?style=for-the-badge" style="display:inline-block; height: 24px;" />
-  <img src="https://img.shields.io/badge/JS-gray?style=for-the-badge" style="display:inline-block; height: 24px;" />
-  <img src="https://img.shields.io/badge/HTML5-gray?style=for-the-badge" style="display:inline-block; height: 24px;" />
-   <img src="https://img.shields.io/badge/CSS3-gray?style=for-the-badge" style="display:inline-block; height: 24px;" />
- <img src="https://img.shields.io/badge/Tailwind-gray?style=for-the-badge" style="display:inline-block; height: 24px;" />
-<img src="https://img.shields.io/badge/MUI-gray?style=for-the-badge" style="display:inline-block; height: 24px;" />
-<img src="https://img.shields.io/badge/Mantine-gray?style=for-the-badge" style="display:inline-block; height: 24px;" />
- <img src="https://img.shields.io/badge/Shadcn-gray?style=for-the-badge" style="display:inline-block; height: 24px;" />
-<img src="https://img.shields.io/badge/Figma-gray?style=for-the-badge" style="display:inline-block; height: 24px;" />
- <img src="https://img.shields.io/badge/Git-gray?style=for-the-badge" style="display:inline-block; height: 24px;" />
-<img src="https://img.shields.io/badge/Redux-studying-lightgray?style=for-the-badge" style="display:inline-block; height: 24px;" />
+![Static Badge](https://img.shields.io/badge/React-gray?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Next.js-gray?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/TS-gray?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/JS-gray?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/HTML5-gray?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/CSS3-gray?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Tailwind-gray?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/MUI-gray?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Mantine-gray?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Shadcn-gray?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Figma-gray?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/BEM-gray?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Git-gray?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Redux-studying-lightgray?style=for-the-badge)
 
   <hr>
    <h3  style="font-size:24px; color:#000;">LEARNING</h3>
