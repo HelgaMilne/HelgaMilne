@@ -13,7 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/Next.js-gray) ![Static Badge](https://img.shields.io/badge/React-gray) ![Static Badge](https://img.shields.io/badge/TS-gray) ![Static Badge](https://img.shields.io/badge/JS-gray) ![Static Badge](https://img.shields.io/badge/HTML5-gray) ![Static Badge](https://img.shields.io/badge/CSS3-gray) ![Static Badge](https://img.shields.io/badge/MUI-gray) ![Static Badge](https://img.shields.io/badge/Mantine-gray) ![Static Badge](https://img.shields.io/badge/Shadcn-gray) ![Static Badge](https://img.shields.io/badge/Tailwind-gray)
 ![Static Badge](https://img.shields.io/badge/Figma-gray) ![Static Badge](https://img.shields.io/badge/BEM-gray) ![Static Badge](https://img.shields.io/badge/Git-gray) ![Static Badge](https://img.shields.io/badge/Redux-studying-lightgray)
 <img src="https://img.shields.io/badge/Git-%#436a8e" alt="Git" style="border-radius: 1px; height: 24px;">
-<img src="https://img.shields.io/badge/:badgeContent?style=flat-square&label=Figma&labelColor=white&color=%23436a8e" alt="Git" style="border-radius: 1px; height: 24px;">
+<img src="https://img.shields.io/badge/?style=flat-square&label=Figma&labelColor=white&color=%23436a8e" alt="Figma" style="border-radius: 1px; height: 24px;">
 
   <hr>
    <h3  style="font-size:24px; color:#000;">LEARNING</h3>
