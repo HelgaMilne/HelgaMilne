@@ -10,10 +10,19 @@
 
   <hr>
 
-![Static Badge](https://img.shields.io/badge/Next.js-gray) ![Static Badge](https://img.shields.io/badge/React-gray) ![Static Badge](https://img.shields.io/badge/TS-gray) ![Static Badge](https://img.shields.io/badge/JS-gray) ![Static Badge](https://img.shields.io/badge/HTML5-gray) ![Static Badge](https://img.shields.io/badge/CSS3-gray) ![Static Badge](https://img.shields.io/badge/MUI-gray) ![Static Badge](https://img.shields.io/badge/Mantine-gray) ![Static Badge](https://img.shields.io/badge/Shadcn-gray) ![Static Badge](https://img.shields.io/badge/Tailwind-gray)
-![Static Badge](https://img.shields.io/badge/Figma-gray) ![Static Badge](https://img.shields.io/badge/BEM-gray) ![Static Badge](https://img.shields.io/badge/Git-gray) ![Static Badge](https://img.shields.io/badge/Redux-studying-lightgray)
-<img src="https://img.shields.io/badge/Git-%23436a8e" alt="Git" style="border-radius: 1px; height: 24px;">
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge" style="height: 24px;" />
+  <img src="https://img.shields.io/badge/Next-gray?style=for-the-badge" style="height: 24px;" />
+  <img src="https://img.shields.io/badge/Reactgray?style=for-the-badge" style="height: 24px;" />
+  <img src="https://img.shields.io/badge/TS-gray?style=for-the-badge" style="height: 24px;" />
+  <img src="https://img.shields.io/badge/JS-gray?style=for-the-badge" style="height: 24px;" />
+  <img src="https://img.shields.io/badge/HTML5-gray?style=for-the-badge" style="height: 24px;" />
+   <img src="https://img.shields.io/badge/CSS3-gray?style=for-the-badge" style="height: 24px;" />
+ <img src="https://img.shields.io/badge/Tailwind-gray?style=for-the-badge" style="height: 24px;" />
+<img src="https://img.shields.io/badge/MUI-gray?style=for-the-badge" style="height: 24px;" />
+<img src="https://img.shields.io/badge/Mantine-gray?style=for-the-badge" style="height: 24px;" />
+ <img src="https://img.shields.io/badge/Shadcn-gray?style=for-the-badge" style="height: 24px;" />
+<img src="https://img.shields.io/badge/Figma-gray?style=for-the-badge" style="height: 24px;" />
+ <img src="https://img.shields.io/badge/Git-gray?style=for-the-badge" style="height: 24px;" />
+<img src="https://img.shields.io/badge/Redux-studying-lightgray?style=for-the-badge" style="height: 24px;" />
 
   <hr>
    <h3  style="font-size:24px; color:#000;">LEARNING</h3>
